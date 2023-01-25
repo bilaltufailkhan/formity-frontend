@@ -1,0 +1,88 @@
+{
+  "sections": [
+    {
+      "title": "Contact Information",
+      "sectionId": "contact_info",
+      "inputs": [
+        {
+          "name": "name",
+          "type": "text",
+          "className": "form-control",
+          "placeholder": "Enter your name"
+        },
+        {
+          "name": "email",
+          "type": "email",
+          "className": "form-control",
+          "placeholder": "Enter your email address"
+        },
+        {
+          "name": "phone",
+          "type": "tel",
+          "className": "form-control",
+          "placeholder": "Enter your phone number"
+        }
+      ]
+    },
+    {
+      "title": "Address",
+      "sectionId": "address_info",
+      "inputs": [
+        {
+          "name": "street",
+          "type": "text",
+          "className": "form-control",
+          "placeholder": "Enter your street address"
+        },
+        {
+          "name": "city",
+          "type": "text",
+          "className": "form-control",
+          "placeholder": "Enter your city"
+        },
+        {
+          "name": "state",
+          "type": "text",
+          "className": "form-control",
+          "placeholder": "Enter your state"
+        },
+        {
+          "name": "zip",
+          "type": "text",
+          "className": "form-control",
+          "placeholder": "Enter your zip code"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "sectionId": "career_info",
+      "inputs": [
+        {
+          "name": "street",
+          "type": "text",
+          "className": "form-control",
+          "placeholder": "Enter your street address"
+        },
+        {
+          "name": "city",
+          "type": "text",
+          "className": "form-control",
+          "placeholder": "Enter your city"
+        },
+        {
+          "name": "state",
+          "type": "text",
+          "className": "form-control",
+          "placeholder": "Enter your state"
+        },
+        {
+          "name": "zip",
+          "type": "text",
+          "className": "form-control",
+          "placeholder": "Enter your zip code"
+        }
+      ]
+    }
+  ]
+}

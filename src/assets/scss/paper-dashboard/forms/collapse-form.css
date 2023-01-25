@@ -1,0 +1,32 @@
+.collapse-form .form-section {
+  margin-bottom: 2rem;
+}
+.collapse-form .form-section .collapse-button:hover {
+  cursor: pointer;
+}
+.collapse-form .form-section .card {
+  box-shadow: none;
+  border-radius: 0;
+}
+.collapse-form .right-sidebar {
+  padding: 1rem 1.5rem;
+  height: 100%;
+}
+.collapse-form .right-sidebar .sidebar-links-list {
+  display: flex;
+  flex-direction: column;
+}
+.collapse-form .right-sidebar .sidebar-links-list .scroll-link {
+  text-decoration: none;
+  font-size: 0.95rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+.collapse-form .right-sidebar .sidebar-links-list .scroll-link:hover {
+  cursor: pointer;
+}
+.collapse-form .right-sidebar .sidebar-links-list .add-section {
+  border-top: 1px solid lightgray;
+  padding: 1rem 0;
+  margin-top: 2.5rem;
+}/*# sourceMappingURL=collapse-form.css.map */
