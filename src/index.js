@@ -14,7 +14,7 @@ import { AuthProvider } from "context/AuthProvider";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
 root.render(
-  <BrowserRouter>
+  <BrowserRouter basename="/formity-frontend">
     <AuthProvider>
       <Routes>
         <Route path="/*" element={<AppWrapper />} />
